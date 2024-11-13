@@ -1,5 +1,5 @@
-# 💫 About Me:
-## About Me<br><br>🔭 I’m currently working on an AI Virtual Mouse project, implementing hand gesture-based controls for enhanced user interaction and responsiveness.<br><br>👯 I’m looking to collaborate on **AI/ML projects** that focus on healthcare innovations and data-driven solutions.<br><br>🤝 I’m looking for help with **optimizing model performance** and learning **deep learning techniques**.<br><br>🌱 I’m currently learning **Python for Data Science** and enhancing my skills in **data analytics and visualization**.<br><br>⚡ Fun fact: I love solving complex problems and optimizing systems for better performance. Outside of tech, I'm passionate about nature and photography.<br><br>
+# About Me:
+## About Me<br><br>I’m currently working on an AI Virtual Mouse project, implementing hand gesture-based controls for enhanced user interaction and responsiveness.<br><br>I’m looking to collaborate on **AI/ML projects** that focus on healthcare innovations and data-driven solutions.<br><br>I’m looking for help with **optimizing model performance** and learning **deep learning techniques**.<br><br>I’m currently learning **Python for Data Science** and enhancing my skills in **data analytics and visualization**.<br><br>Fun fact: I love solving complex problems and optimizing systems for better performance. Outside of tech, I'm passionate about nature and photography.<br><br>
 
 
 ## 🌐 Socials:
