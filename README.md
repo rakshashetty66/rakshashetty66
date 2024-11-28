@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-* 🎓 AIML student with strong skills in math, stats, and programming.
+* 🎓 I'm Raksha AIML student with strong skills in math, stats, and programming.
 * 🔧 Proficient in Python, C, C++, Excel, Tableau, and MySQL.
 * 🤖 Passionate about AI/ML and building innovative solutions.
 * 📈 Skilled in data analysis, visualization, and insights.
