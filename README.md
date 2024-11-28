@@ -7,7 +7,7 @@
 📈 Skilled in data analysis, visualization, and insights.<br>
 
 <div style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="200" height="200">
+  <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="240" height="200">
 </div>
 
 ## 🌐 Socials:
