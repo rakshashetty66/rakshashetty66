@@ -1,15 +1,20 @@
 🌟 About Me:
 =====================================================================================================================================
 
-* 🎓 I'm Raksha AIML student with strong skills in math, stats, and programming.
-* 🔧 Proficient in Python, C, C++, R, Excel, Tableau, and MySQL.
-* 🤖 Passionate about AI/ML and building innovative solutions.
-* 📈 Skilled in data analysis, visualization, and insights.
+🎓 I'm Raksha AIML student with strong skills in math, stats, and programming.<br>
+🔧 Proficient in Python, C, C++, R, Excel, Tableau, and MySQL.<br>
+🤖 Passionate about AI/ML and building innovative solutions.<br>
+📈 Skilled in data analysis, visualization, and insights.<br>
 
-## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rshetty64)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/rakshashetty66)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/raksharshetty64)
+<div style="text-align: center;">
+  <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="200" height="200">
+</div>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&width=200&height=140)](https://linkedin.com/in/rshetty64)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&width=200&height=140)](https://github.com/rakshashetty66)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&width=200&height=140)](mailto:raksharshetty64@gmail.com)
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -24,6 +29,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel 📊](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rakshashetty66&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -33,4 +41,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rakshashetty66&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
