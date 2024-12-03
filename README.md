@@ -39,5 +39,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshashetty66&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+- [**AI Virtual Mouse**](https://github.com/rakshashetty66/AI_VIRTUAL_MOUSE): An innovative virtual mouse project using AI. | Language: Python | Issues: 0
+- [**Brain Tumor SVM**](https://github.com/rakshashetty66/BRAIN-TUMOR-SVM): Brain tumor detection using SVM with feature extraction for accurate classification. | Language: Jupyter Notebook | Issues: 0
+- [**Password Generator**](https://github.com/rakshashetty66/Password_Generator): Password generator creating strong, secure passwords with customizable criteria. | Language: Python | Issues: 0
+- [**Cipher Text**](https://github.com/rakshashetty66/Cipher_Text): Cipher text generator for secure message encryption and decryption. | Language: Python | Issues: 0
+- [**Bank Management System**](https://github.com/rakshashetty66/BANK-MANAGEMENT-SYSTEM): Bank management system using Java and MySQL for secure account and transaction handling. | Language: Java | Issues: 0
+
+
+---
 [![](https://visitcount.itsvg.in/api?id=rakshashetty66&icon=0&color=0)](https://visitcount.itsvg.in)
 
