@@ -40,28 +40,10 @@
 
 
 
-<h2 id="projects">Projects</h2>
-<a href="https://github.com/rakshashetty66/AI_VIRTUAL_MOUSE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshashetty66&repo=AI_VIRTUAL_MOUSE&theme=dark">
-</a>
-<a href="https://github.com/rakshashetty66/BRAIN-TUMOR-SVM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshashetty66&repo=BRAIN-TUMOR-SVM&theme=dark">
-</a>
-<a href="https://github.com/rakshashetty66/Password_Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshashetty66&repo=Password_Generator&theme=dark">
-</a>
-<a href="https://github.com/rakshashetty66/Cipher_Text">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshashetty66&repo=Cipher_Text&theme=dark">
-</a>
-<a href="https://github.com/rakshashetty66/BANK-MANAGEMENT-SYSTEM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshashetty66&repo=BANK-MANAGEMENT-SYSTEM&theme=dark">
-</a>
-
 
 
 <h2 id="github-trophies">🏆GitHub Trophies</h2>
 <p><img src="https://github-profile-trophy.vercel.app/?username=rakshashetty66&amp;theme=tokyonight&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
-
 
 
 <hr>
