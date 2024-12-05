@@ -2,7 +2,7 @@
 =====================================================================================================================================
 
 🎓 I'm Raksha AIML student with strong skills in math, stats, and programming.<br>
-🔧 Proficient in Python, C, C++, R, Excel, Tableau, and MySQL.<br>
+🔧 Proficient in Python, C++, R, Excel, Tableau, and MySQL.<br>
 🤖 Passionate about AI/ML and building innovative solutions.<br>
 📈 Skilled in data analysis, visualization, and insights.<br>
 
