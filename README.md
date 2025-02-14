@@ -1,20 +1,14 @@
-🌟 About Me:
+About Me:
 =====================================================================================================================================
 
-🎓 I'm Raksha AIML student with strong skills in math, stats, and programming.<br>
-🔧 Proficient in Python, C++, R, Excel, PowerBI, and MySQL.<br>
-🤖 Passionate about AI/ML and building innovative solutions.<br>
-📈 Skilled in data analysis, visualization, and insights.<br>
-
-<div style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="240" height="200">
-</div>
+🎓 Raksha Shetty | AI/ML Enthusiast <br>
+🔍 Passionate about AI, Machine Learning, and building data-driven solutions.<br>
+💡 Strong foundation in Python, statistics, and problem-solving.<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&width=1800&height=1680)](https://linkedin.com/in/rshetty64)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&width=1800&height=1680)](https://github.com/rakshashetty66)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&width=1800&height=1680)](mailto:raksharshetty64@gmail.com)
-
+📩 Email : raksharshetty64@gmail.com<br>
+🔗 LinkedIn : [linkedin.com/in/rshetty64](https://www.linkedin.com/in/rshetty64/)<br>
+💻 GitHub : [github.com/rakshashetty66](https://github.com/rakshashetty66/rakshashetty66)<br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -26,20 +20,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel 📊](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Advanced Excel 📊](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rakshashetty66&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakshashetty66&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshashetty66&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
 
 
 <h2 id="github-trophies">🏆GitHub Trophies</h2>
