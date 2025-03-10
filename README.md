@@ -6,7 +6,7 @@ About Me:
 💡 Strong foundation in Python, statistics, and problem-solving.<br>
 
 ## 🌐 Socials:
-📩 Email : raksharshetty64@gmail.com<br>
+📩 Email : raksharshetty46@gmail.com<br>
 🔗 LinkedIn : [linkedin.com/in/rshetty64](https://www.linkedin.com/in/rshetty64/)<br>
 💻 GitHub : [github.com/rakshashetty66](https://github.com/rakshashetty66/rakshashetty66)<br>
 
