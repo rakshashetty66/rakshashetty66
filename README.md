@@ -5,10 +5,13 @@ About Me:
 🔍 Passionate about AI, Machine Learning, and building data-driven solutions.<br>
 💡 Strong foundation in Python, statistics, and problem-solving.<br>
 
-## 🌐 Socials:
-📩 Email : raksharshetty46@gmail.com<br>
-🔗 LinkedIn : [linkedin.com/in/rshetty64](https://www.linkedin.com/in/rshetty64/)<br>
-💻 GitHub : [github.com/rakshashetty66](https://github.com/rakshashetty66/rakshashetty66)<br>
+## 🌐 Socials:  
+📧 **Email**: [raksharshetty46@gmail.com](mailto:raksharshetty46@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/rshetty64](https://www.linkedin.com/in/rshetty64/)  
+🐙 **GitHub**: [github.com/rakshashetty66](https://github.com/rakshashetty66/)  
+🌍 **Portfolio**: [rakshashetty.portfolio](https://portfolioraksharshetty.vercel.app/)  
+🔗 **Linktree**: [linktr.ee/raksharshetty64](https://linktr.ee/raksharshetty64/)  
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
